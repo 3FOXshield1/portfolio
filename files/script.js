@@ -1,6 +1,6 @@
 
 var typed = new Typed(".text", {
-    strings: ["Programming" , "Machine Learning" , "Cyber Security"],
+    strings: ["Programming" , "Machine Learning" ],
     typeSpeed:100,
     backSpeed:100,
     backDelay:1000,
